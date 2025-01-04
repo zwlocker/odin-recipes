@@ -27,5 +27,33 @@ li {
 }
 
 .odin-title {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: cursive, 'Gill Sans';
+    color: white;
+    letter-spacing: 3px;
+}
+
+.title-background {
+    background-color: rgb(189, 140, 41);
+}
+
+.credits {
+    color: white;
+    text-align: right;
+    margin-right: 100px;
+}
+
+a {
+    text-decoration: underline;
+    color: white;
+}
+
+.recipe-list {
+    list-style-type: none;
+    background-color: rgb(145, 109, 37);
+    padding: 20px;
+    margin: 0px 100px;
+}
+
+.recipe-list li {
+    text-align: center;
 }
